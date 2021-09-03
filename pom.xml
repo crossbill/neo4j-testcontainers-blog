@@ -60,9 +60,7 @@
     </dependencyManagement>
 
     <modules>
-        <module>neo4j-testcontainers-procedure</module>
         <module>neo4j-testcontainers-example</module>
-        <module>neo4j-testcontainers-apoc-example</module>
     </modules>
 
     <build>
